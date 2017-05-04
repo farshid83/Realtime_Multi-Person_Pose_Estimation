@@ -44,9 +44,8 @@ Contact: [Zhe Cao](http://www.andrew.cmu.edu/user/zhecao)  Email: zhecao@cmu.edu
 
 ### Python
 
-- >>> to import cv2 as cv >>> pip install --user opencv-python
-- >>> to import cv2 as cv >>> pip install --user opencv-python
-- >>> to import cv2 as cv >>> pip install --user opencv-python
+- export PYTHONPATH=$HOME/usr/local/caffe/python:$PYTHONPATH
+- to import cv2 as cv >>> pip install --user opencv-python
 
 - `cd testing/python`
 - `ipython notebook`
