@@ -43,6 +43,11 @@ Contact: [Zhe Cao](http://www.andrew.cmu.edu/user/zhecao)  Email: zhecao@cmu.edu
 - Change the caffepath in the `config.m` and run `demo.m` for an example usage.
 
 ### Python
+
+- >>> to import cv2 as cv >>> pip install --user opencv-python
+- >>> to import cv2 as cv >>> pip install --user opencv-python
+- >>> to import cv2 as cv >>> pip install --user opencv-python
+
 - `cd testing/python`
 - `ipython notebook`
 - Open `demo.ipynb` and execute the code
